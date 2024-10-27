@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72dabfbf637c4952b828f395b88cd7d, type: 3}
+  m_Name: Flask_Boost_Armor
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Flask_Boost_Armor
+  itemIcon: {fileID: -165920498, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 15
+  equipmentType: 3
+  descriptionLength: 1
+  coolDown: 5
+  equipmentEffects:
+  - {fileID: 11400000, guid: a9565727ec2dc4ac1ba8df4f0d99f0b3, type: 2}
+  - {fileID: 11400000, guid: 7106dcc0291af46529c8e66a9d5360c2, type: 2}
+  equipmentEffectDescription: 
+  strength: 0
+  agility: 0
+  intelligence: 2
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  maxHp: 0
+  armor: 10
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  craftMaterials: []
